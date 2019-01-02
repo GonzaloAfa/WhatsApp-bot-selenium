@@ -1,6 +1,6 @@
 # WhatsApp Bot
 
-This is a simple Web WhatsApp Bot developed in python using Selenium. 
+This is a simple Web WhatsApp Bot developed in python using Selenium.
 Selenium is used mainly for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
 
 Selenium has the support of some of the largest browser vendors who have taken (or are taking) steps to make Selenium a native part of their browser. It is also the core technology in countless other browser automation tools, APIs and frameworks.
@@ -20,7 +20,7 @@ Selenium has the support of some of the largest browser vendors who have taken (
   - Change the message along with time in the whatsapp.py
   - You can add multiple messages
   - The Script can also search for the contact in the new chat list and then send message if the contact is not found in the recent chat list.
-  
+
 ### Requirements
 
 * [Python 3+](https://www.python.org/download/releases/3.0/?) - Pyhton 3.6+ verion
@@ -29,7 +29,7 @@ Selenium has the support of some of the largest browser vendors who have taken (
 
 ### Installation
 
-Step 1: Install Selenium 
+Step 1: Install Selenium
 ```sh
 $ pip3 install selenium
 ```

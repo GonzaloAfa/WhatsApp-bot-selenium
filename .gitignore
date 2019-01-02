@@ -1,0 +1,8 @@
+*.pyc
+.idea
+.env
+
+*.xlsx
+chromedrive*
+geckodriver*
+.DS_STORE
